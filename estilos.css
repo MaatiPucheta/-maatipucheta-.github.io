@@ -1,0 +1,152 @@
+.img-container {
+    text-align: center;
+  }
+
+  .circular--square {
+border-radius: 50%;
+}
+
+body{
+  background: #98A44B;
+background: -moz-linear-gradient(left, #98A44B 0%, #7E9C77 37%, #5E754E 100%);
+background: -webkit-linear-gradient(left, #98A44B 0%, #7E9C77 37%, #5E754E 100%);
+background: linear-gradient(to right, #98A44B 0%, #7E9C77 37%, #5E754E 100%);
+}
+
+.esp {
+  padding-bottom: 4em;
+  border-bottom: 1px solid var(--color-3);
+}
+
+.tam { font-size: 30px; }
+
+.card{
+  width: 1000px;
+  height: 400px;
+  margin: 20px 145px;
+  padding: -80px 10;
+  text-align: center;
+  transition: .5s;
+  -webkit-border-radius: 121px 91px 101px 121px;
+border-radius: 121px 91px 101px 121px;
+}
+
+.cur
+{font-family: "Courier New", Courier, monospace;
+  font-size: 29px;
+  letter-spacing: 0.6px;
+  word-spacing: -5px;
+  color: #000000;
+  font-weight: 900;
+  text-decoration: underline solid rgb(68, 68, 68);
+  font-style: italic;
+  font-variant: small-caps;
+  text-align: center;}
+
+.curS{
+  font-family: "Courier New", Courier, monospace;
+    font-size: 34px;
+    letter-spacing: 0.6px;
+    word-spacing: -5px;
+    color: #000000;
+    font-weight: 900;
+    font-style: italic;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+.pad{
+
+  padding: -30px 10;
+
+}
+
+.estP{
+  font-family: "Courier New", Courier, monospace;
+  font-size: 26px;
+  letter-spacing: 1px;
+  word-spacing: -5px;
+  color: #000000;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: italic;
+  font-variant: normal;
+  text-transform: none;
+  }
+
+
+
+.est{
+font-family: "Courier New", Courier, monospace;
+font-size: 20px;
+letter-spacing: 1px;
+word-spacing: -5px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+}
+
+.est2 {
+  font-family: "Lucida Console", Monaco, monospace;
+
+letter-spacing: 1.2px;
+word-spacing: 0.2px;
+color: #FFFFFF;
+font-weight: 700;
+text-decoration: none;
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+}
+
+.box{
+  width:210px;
+  height:120px;
+  border:dotted 6px #efe825;
+}
+
+.boxC{
+  width:210px;
+  height:100px;
+  border:dotted 6px #efe825;
+}
+
+.sangr{padding-left:143px
+
+}
+
+.esp2{
+    height: 650px;
+}
+
+.esp3{
+    height: 100px;
+}
+
+.esp4{
+  height: 200px;
+
+}
+
+.esp5{
+  height: 300px;
+
+}
+
+.esp6
+{
+  height: 700px;
+}
+
+.espF
+{
+  height: 550px;
+}
+
+.ext{ 
+  font-weight: 550;
+  font-size: 28px;
+}
